@@ -1,7 +1,7 @@
 <?php
 if($_POST["submit"]=="query") 
 {
-    $recipient="shivangi.gupta1404@gmail.com";
+    $recipient="bhartichahal616@gmail.com";
     $subject="Query from bookstore";
     $sender=$_POST["sender"];
     $senderEmail=$_POST["senderEmail"];
